@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c95c9c79-3de4-489a-b459-5d06ef60be37" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Zarobki/src/gajda/szymon/Osoba.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SlownikLiczacy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SlownikLiczacy/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Swap/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Swap/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zarobki/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Zarobki/.idea/workspace.xml" />

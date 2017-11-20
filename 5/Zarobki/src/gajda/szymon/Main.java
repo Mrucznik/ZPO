@@ -16,7 +16,10 @@ public class Main {
                     .peek(System.out::println)
                     .toArray(Integer[]::new);
 
-            System.out.println((results[results.length-1]+results[results.length-2]) + " " + (results[0]+results[1]));
+            if(results.length < 2)
+                System.out.println("Błąd: za mało rekordów aby wyświetlić!");
+            else
+                System.out.println("Suma max: " + (results[results.length-1]+results[results.length-2]) + ", Suma min: " + (results[0]+results[1]));
 
 
         } catch (Exception e) {
