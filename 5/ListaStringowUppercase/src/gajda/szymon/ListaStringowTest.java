@@ -5,12 +5,14 @@ import java.util.ArrayList;
 
 public class ListaStringowTest {
 
+    @org.junit.Test
     public static void main(String[] args) {
         Assert.assertEquals(getUpperList(), ListaStringow.sposob1(getList()));
         Assert.assertEquals(getUpperList(),ListaStringow.sposob2(getList()));
         Assert.assertEquals(getUpperList(),ListaStringow.sposob3(getList()));
     }
 
+    @org.junit.Test
     private static ArrayList<String> getList()
     {
         ArrayList<String> list = new ArrayList<>();
@@ -21,6 +23,7 @@ public class ListaStringowTest {
         return list;
     }
 
+    @org.junit.Test
     private static ArrayList<String> getUpperList()
     {
         ArrayList<String> list = new ArrayList<>();

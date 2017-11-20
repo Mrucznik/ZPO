@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd82cb5-4d02-4f78-b6be-f7ebd22eec81" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ListaStringowUppercase/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ListaStringowUppercase/src/gajda/szymon/Main.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SlownikLiczacy/src/gajda/szymon/SlownikLiczacy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SlownikLiczacy/src/gajda/szymon/SlownikLiczacyTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../SlownikLiczacy/src/gajda/szymon/Main.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ListaStringowUppercase/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ListaStringowUppercase/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ListaStringowUppercase/ListaStringowUppercase.iml" afterPath="$PROJECT_DIR$/../ListaStringowUppercase/ListaStringowUppercase.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ListaStringowUppercase/src/gajda/szymon/ListaStringow.java" afterPath="$PROJECT_DIR$/../ListaStringowUppercase/src/gajda/szymon/ListaStringow.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ListaStringowUppercase/src/gajda/szymon/ListaStringowTest.java" afterPath="$PROJECT_DIR$/../ListaStringowUppercase/src/gajda/szymon/ListaStringowTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SlownikLiczacy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SlownikLiczacy/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SlownikLiczacy/src/gajda/szymon/Main.java" afterPath="$PROJECT_DIR$/../SlownikLiczacy/src/gajda/szymon/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SlownikLiczacy/SlownikLiczacy.iml" afterPath="$PROJECT_DIR$/../SlownikLiczacy/SlownikLiczacy.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
