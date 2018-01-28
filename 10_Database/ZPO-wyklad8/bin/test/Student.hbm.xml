@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+  "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="test">
+  <class name="Student" table="Student">
+    <id name="id"><generator class="native"/></id>
+    <property name="imie" column="IMIE" length="10" not-null="true"/>
+    <property name="nazwisko" column="NAZWISKO" length="25" not-null="true"/>
+    <property name="ocena" column="OCENA"  not-null="false"/>
+    <property name="nrAlbumu" column="NRALBUMU"  not-null="true"/>
+    <property name="stacjonarny" column="STACJONARNY"  not-null="true"/>
+  </class>
+</hibernate-mapping>
